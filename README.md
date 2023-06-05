@@ -1,5 +1,5 @@
 # Dental21
-Estimated Revenue and Unique Patient Count-2023
+Estimated Revenue and Unique Patient Count-2023.Analysis was conducted in SQL & Excel
 
 # Objective: 
 The task is to estimate how much revenue Dental21 can expect in 2023 and how many distinct patients they will have gained by the end of 2023.
