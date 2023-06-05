@@ -10,5 +10,13 @@ There are currently two clinics in operation, and two more will open in March 20
 # Tools:
 * Excel 
 * SQL
-
+* Powerpoint
  
+# Skills:
+* Data Cleaning & Wrangling
+* Derive new Columns
+* Exploratory data Analysis using Pivot table
+* Make Assumptions and benchmarks  for newly open clinics
+* Forecast the  Revenue for all clinics in 2023
+* Forecast the count of Unique patients for all clinics in 2023
+
